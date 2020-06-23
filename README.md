@@ -1,7 +1,7 @@
 # Nijigasaki High School Idol Club - ENG Translations
 Here lies a public repository for all English Translated content - fan-made or official, of any **Love Live! Nijigasaki High School Idol Club** related content.
 
-It is by no means complete, but hopefully can be a useful resource to all looking for english translated content of these girls.
+**It is by no means a complete collection**, but hopefully can be a useful resource to all looking for english translated content of these girls.
 
 This repository is managed by **[@HuzzuDesu](https://twitter.com/HuzzuDesu)** / **Huzz#0009**, but anyone can contribute! Open an issue, or submit a pull request if there are any newly translated content found (and avaliable to be shared).
 
