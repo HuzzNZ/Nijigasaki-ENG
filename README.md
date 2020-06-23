@@ -3,6 +3,8 @@ Here lies a public repository for all English Translated content - fan-made or o
 
 This repository is managed by **[@HuzzuDesu](https://twitter.com/HuzzuDesu)** / **Huzz#0009**, but anyone can contribute! Open an issue, or submit a pull request if there are any newly translated content found (and avaliable to be shared).
 
+![Nijigasaki High School Idol Club](https://pbs.twimg.com/media/EVeWxbUUEAEaAwO.jpg:large)
+
 > Love Live! Nijigasaki High School Idol Club is another generation of our beloved Love Live girls. These 9 solo girls release albums, perform lives, have regular livestreams, carry out monthly questionnaires (since Jan 2020) / monthly ranking (before Dec 2019), and will be receiving a TV Anime, as well as being part of the Love Live! School Idol Festival: ALL STARS mobile game. Together, these girls will make a 9-colored rainbow bloom!
 
 ## Main Contents
