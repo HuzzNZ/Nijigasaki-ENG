@@ -1,7 +1,7 @@
 # Nijigasaki High School - Character Contents
 This page is for all translated content of character contents, including **Introductions**, **Voiced messages**, **Monthly Ranking/Questionnaire** and the likes.
 
-### This page is a page under the Nijigasaki-ENG repository.
+**This page is a page under the [Nijigasaki-ENG repository.](README.md)**
 
 ## Main Contents
 These links will take you to their respective pages in this repository.
