@@ -1,21 +1,21 @@
 # Nijigasaki High School Idol Club - ENG Translations
 Here lies a public repository for all English Translated content - fan-made or official, of any **Love Live! Nijigasaki High School Idol Club** related content.
 
-**It is by no means a complete collection**, but hopefully can be a useful resource to all looking for english translated content of these girls.
+**It is by no means a complete collection**, but hopefully can be a useful resource to all looking for English translated content of these girls.
 
-This repository is managed by **[@HuzzuDesu](https://twitter.com/HuzzuDesu)** / **Huzz#0009**, but anyone can contribute! Open an issue, or submit a pull request if there are any newly translated content found (and avaliable to be shared).
+This repository is managed by **[@HuzzuDesu](https://twitter.com/HuzzuDesu)** / **Huzz#0009**, but anyone can contribute! Open an issue, or submit a pull request if there are any newly translated content found (and available to be shared).
 
 ![Nijigasaki High School Idol Club](https://pbs.twimg.com/media/EVeWxbUUEAEaAwO.jpg:large)
 
-> Love Live! Nijigasaki High School Idol Club is another generation of our beloved Love Live girls. These 9 solo girls release albums, perform lives, have regular livestreams, carry out monthly questionnaires (since Jan 2020) / monthly ranking (before Dec 2019), and will be receiving a TV Anime, as well as being part of the Love Live! School Idol Festival: ALL STARS mobile game. Together, these girls will make a 9-colored rainbow bloom!
+> Love Live! Nijigasaki High School Idol Club is another generation of our beloved Love Live girls. These 9 solo girls release albums, perform lives, have regular live streams, carry out monthly questionnaires (since Jan 2020) / monthly ranking (before Dec 2019), and will be receiving a TV Anime, as well as being part of the Love Live! School Idol Festival: ALL STARS mobile game. Together, these girls will make a 9-colored rainbow bloom!
 
 ## Main Contents
 These links will take you to their respective pages in this repository.
-* **Character Content**
-* **Seiyuu Content**
-* **Comics**
-* **Lives**
-* **Love Live! School Idol Festival: ALL STARS**
+* **[Character Content](character.md)**
+* **[Seiyuu Content](seiyuu.md)**
+* **[Comics](comics.md)**
+* **[Lives](lives.md)**
+* **[Love Live! School Idol Festival: ALL STARS](sifas.md)**
 
 ## Disclaimers
 
