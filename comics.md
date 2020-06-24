@@ -13,3 +13,12 @@ These links will take you to their respective pages in this repository.
 
 # Translations
 
+## Nijiyon (S1, S2)
+* TL: **`Xin`**, **`Ramen`**
+* QC: **`Ramen`**
+##### [Link (Twitter)](https://twitter.com/i/events/1122990005058789377)
+
+## Nijiyon (S3)
+* TL: **`Huzz`**
+* QC: **`Ramen`**
+##### [Link (Twitter)](https://twitter.com/i/events/1272876210704400384)
